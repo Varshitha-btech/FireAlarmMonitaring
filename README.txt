@@ -23,7 +23,7 @@
 
 ## Publish a public link (so others can open it)
 This ZIP is a static website. To publish it:
-1. Open Netlify Drop: https://app.netlify.com/drop
+1. Open Netlify Drop: firealarmmonitoring.netlify.app
 2. Sign in or create a Netlify account.
 3. Extract this ZIP on your computer.
 4. Drag the extracted `FireWatch_Fire_Alarm_Monitoring` folder (the folder containing `index.html`) onto the Netlify Drop page.
